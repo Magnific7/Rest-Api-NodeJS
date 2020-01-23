@@ -1,0 +1,27 @@
+GET http://localhost:3000/employees
+
+###
+GET http://localhost:3000/employees/5e29aa255fdf156fe9500d40
+
+###
+
+POST http://localhost:3000/employees
+Content-Type: application/json
+
+{
+    "name": "Amazing",
+    "employeePosition": "vice"
+}
+
+###
+DELETE http://localhost:3000/employees/5e29aa255fdf156fe9500d40
+
+
+###
+PATCH  http://localhost:3000/employees/5e29aabc5fdf156fe9500d41
+Content-Type: application/json
+
+{
+    "name": "Amazing Person",
+    "employeePosition": "vice"
+}
