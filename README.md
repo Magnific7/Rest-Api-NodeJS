@@ -18,3 +18,9 @@ A computer running on either Windows, MacOS or Ubuntu operating system installed
 * npm i install--save-dev dotenv nodemon (devolopment dependencies)
 * run $ npm start 
 * Replace the URL string parser in the app.js with the one provided in the terminal because the current one has expired.
+
+### Technologies Used
+
+* node version v8.10.0
+* mongodb version v4.2.2
+* npm version 3.5.2
