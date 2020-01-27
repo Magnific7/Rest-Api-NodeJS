@@ -1,8 +1,15 @@
 # Rest-Api-NodeJS
-#### This is simple well functioning REST Api project that has a GET, POST, DELETE, PATCH and EDIT requests built in NodeJS and Express with MongoDB as database.
+This is simple well functioning REST Api project that has a GET, POST, DELETE, PATCH and EDIT requests built in NodeJS and Express with MongoDB as database.
+
+### Prerequisites
+
+You need the following to start working on the project on your local computer:
+A computer running on either Windows, MacOS or Ubuntu operating system installed with the following:
+* NodeJs
+* npm
+* MongoDB
 
 ### Installation 
-* Install NodeJS npm and MongoDB.
 * Clone the project by  $ git clone https://github.com/Magnific7/Rest-Api-NodeJS.git
 * Or download zip folder
 * Open the folder and run in the terminal.
