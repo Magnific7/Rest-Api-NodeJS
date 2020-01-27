@@ -24,3 +24,6 @@ A computer running on either Windows, MacOS or Ubuntu operating system installed
 * node version v8.10.0
 * mongodb version v4.2.2
 * npm version 3.5.2
+
+### Bugs or improvements
+Every project needs improvements, Feel free to report any bugs or improvements. Pull requests are always welcome.
