@@ -27,3 +27,8 @@ A computer running on either Windows, MacOS or Ubuntu operating system installed
 
 ### Bugs or improvements
 Every project needs improvements, Feel free to report any bugs or improvements. Pull requests are always welcome.
+
+### License
+MIT License
+
+Copyright (c) 2020 UM MAGNIFIC
